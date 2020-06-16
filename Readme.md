@@ -14,7 +14,6 @@ Note that a version of this code that does not require `nltk` is contained in th
 ### This directory contains the following files:
 
 - `2020_06_15_Kaggle_Challenge.ipynb`: the notebook version of this report
-- `2020_06_15_Kaggle_Challenge.html`: the html version of this report. Github does not automatically serve this, but it is useful if you clone the repo into an environment that doesn't render notebooks easily, or want to email it out. 
 - `util.py`: utility code to shorten this report
 
 ### How to read through this:
