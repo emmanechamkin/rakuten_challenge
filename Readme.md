@@ -13,7 +13,7 @@ The code does not require any non-standard dependencies (except maybe `nltk`).
 Note that a version of this code that does not require `nltk` is contained in the `compatibility` subdirectory. Please also note that I use a code formatter, `black`, that I've removed from the code because it is non-standard.
 
 #### Installing NLTK
-If you do not have NLTK installed: https://www.nltk.org/install.html
+If you do not have NLTK installed: https://www.nltk.org/install.html. You can download individual modules in python with the command: `nltk.download('<package>')` from within python (`nltk.download('all')` will download all components). This is annoying -- I'm sorry!
 
 ### This directory contains the following files:
 
