@@ -8,7 +8,6 @@ The code does not require any non-standard dependencies (except maybe `nltk`).
 - `sklearn`
 - `numpy`
 - `nltk`
-- optional: `networkx` (this is wrapped in `try-except` so is not strictly necessary but only in the `compatibility` folder)
 
 Note that a version of this code that does not require `nltk` is contained in the `compatibility` subdirectory. Please also note that I use a code formatter, `black`, that I've removed from the code because it is non-standard.
 
