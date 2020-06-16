@@ -12,11 +12,13 @@ The code does not require any non-standard dependencies (except maybe `nltk`).
 
 Note that a version of this code that does not require `nltk` is contained in the `compatibility` subdirectory. Please also note that I use a code formatter, `black`, that I've removed from the code because it is non-standard.
 
+#### Installing NLTK
+If you do not have NLTK installed: https://www.nltk.org/install.html
+
 ### This directory contains the following files:
 
 - `2020_06_15_Kaggle_Challenge.ipynb`: the notebook version of this report
 - `util.py`: utility code to shorten this report
-- `requirements.txt`: package requirements for this code
 
 ### How to read through this:
 
