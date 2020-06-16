@@ -2,7 +2,8 @@
 
 This directory contains code / an ipynb report for the abridged Rakuten Challenge. 
 
-### Code requirements:
+### Code requirements: 
+The code does not require any non-standard dependencies (except maybe `nltk`). 
 - `pandas`
 - `sklearn`
 - `numpy`
@@ -15,6 +16,7 @@ Note that a version of this code that does not require `nltk` is contained in th
 
 - `2020_06_15_Kaggle_Challenge.ipynb`: the notebook version of this report
 - `util.py`: utility code to shorten this report
+- `requirements.txt`: package requirements for this code
 
 ### How to read through this:
 
